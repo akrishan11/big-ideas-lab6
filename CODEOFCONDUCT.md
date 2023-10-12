@@ -5,4 +5,4 @@ Do not use this complex program to be be mean or discriminatory. Only be mean if
 Offenders will be forced to be apologize or risk being permanently banned from using this complex program
 
 ## Values
-We value being welcoming to a m
+We value being welcoming to most people and writing highly useful and good code
